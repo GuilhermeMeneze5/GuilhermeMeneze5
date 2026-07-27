@@ -53,22 +53,6 @@ I use GitHub as a personal lab — study projects, automations, and experiments 
 ## 📌 Pinned projects
 
 <div align="center">
-  <a href="https://github.com/GuilhermeMeneze5/Aqua-Tech--com-Banco-de-Dados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMeneze5&repo=Aqua-Tech--com-Banco-de-Dados&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/GuilhermeMeneze5/BookSpace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMeneze5&repo=BookSpace&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <br>
-  <a href="https://github.com/GuilhermeMeneze5/Geo-Hidra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMeneze5&repo=Geo-Hidra&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/GuilhermeMeneze5/site-greenligth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMeneze5&repo=site-greenligth&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
   <sub>📂 <a href="https://github.com/GuilhermeMeneze5?tab=repositories">See all repositories →</a></sub>
 </div>
 
